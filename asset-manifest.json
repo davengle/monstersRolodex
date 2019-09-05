@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "git@github.com:davengle/monstersRolodex.git/static/css/main.893c7e29.chunk.css",
-    "main.js": "git@github.com:davengle/monstersRolodex.git/static/js/main.1c34c594.chunk.js",
-    "main.js.map": "git@github.com:davengle/monstersRolodex.git/static/js/main.1c34c594.chunk.js.map",
-    "runtime~main.js": "git@github.com:davengle/monstersRolodex.git/static/js/runtime~main.45bed046.js",
-    "runtime~main.js.map": "git@github.com:davengle/monstersRolodex.git/static/js/runtime~main.45bed046.js.map",
-    "static/js/2.3adefb50.chunk.js": "git@github.com:davengle/monstersRolodex.git/static/js/2.3adefb50.chunk.js",
-    "static/js/2.3adefb50.chunk.js.map": "git@github.com:davengle/monstersRolodex.git/static/js/2.3adefb50.chunk.js.map",
-    "index.html": "git@github.com:davengle/monstersRolodex.git/index.html",
-    "precache-manifest.31c88bb648d84ecc8ef6aab5121ef682.js": "git@github.com:davengle/monstersRolodex.git/precache-manifest.31c88bb648d84ecc8ef6aab5121ef682.js",
-    "service-worker.js": "git@github.com:davengle/monstersRolodex.git/service-worker.js",
-    "static/css/main.893c7e29.chunk.css.map": "git@github.com:davengle/monstersRolodex.git/static/css/main.893c7e29.chunk.css.map"
+    "main.css": "/monstersRolodex/static/css/main.893c7e29.chunk.css",
+    "main.js": "/monstersRolodex/static/js/main.7e1ae9a8.chunk.js",
+    "main.js.map": "/monstersRolodex/static/js/main.7e1ae9a8.chunk.js.map",
+    "runtime~main.js": "/monstersRolodex/static/js/runtime~main.7cb08802.js",
+    "runtime~main.js.map": "/monstersRolodex/static/js/runtime~main.7cb08802.js.map",
+    "static/js/2.3adefb50.chunk.js": "/monstersRolodex/static/js/2.3adefb50.chunk.js",
+    "static/js/2.3adefb50.chunk.js.map": "/monstersRolodex/static/js/2.3adefb50.chunk.js.map",
+    "index.html": "/monstersRolodex/index.html",
+    "precache-manifest.70165814a3d9c89e4140ebfbe663d5a9.js": "/monstersRolodex/precache-manifest.70165814a3d9c89e4140ebfbe663d5a9.js",
+    "service-worker.js": "/monstersRolodex/service-worker.js",
+    "static/css/main.893c7e29.chunk.css.map": "/monstersRolodex/static/css/main.893c7e29.chunk.css.map"
   }
 }
